@@ -24,6 +24,7 @@
 .card:hover{
     transform: scale(1.02);
 }
+
 .card-image{
    width: 400px;
    height: 300px;
@@ -62,10 +63,9 @@ body{
     opacity: 0.8;
 }
 
-.card.favorite{
+.favorite{
     text-align: right;      
-   
 }
-.card.favorite a{
+.favorite a{
  text-decoration: none;
 }
