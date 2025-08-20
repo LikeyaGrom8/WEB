@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="220" viewBox="0 0 560 220" role="img" aria-label="Y | A | N | A logo">
+  <rect width="100%" height="100%" fill="none"/>
+  <g fill="#FFFFFF" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="700">
+    <!-- Vertical separators -->
+    <rect x="145" y="40" width="6" height="140" rx="3" />
+    <rect x="275" y="40" width="6" height="140" rx="3" />
+    <rect x="405" y="40" width="6" height="140" rx="3" />
+    <!-- Letters -->
+    <text x="95"  y="155" font-size="140" text-anchor="middle">Y</text>
+    <text x="210" y="155" font-size="140" text-anchor="middle">A</text>
+    <text x="340" y="155" font-size="140" text-anchor="middle">N</text>
+    <text x="470" y="155" font-size="140" text-anchor="middle">A</text>
+  </g>
+</svg>
